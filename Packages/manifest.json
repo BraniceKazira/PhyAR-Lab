@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.multiplayer.center": "1.0.0",
     "com.unity.xr.arcore": "6.0.7",
     "com.unity.xr.arfoundation": "6.0.7",
